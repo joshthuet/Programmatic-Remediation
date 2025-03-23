@@ -7,7 +7,7 @@
 #     Make sure to run as root or with appropriate privileges.
 #
 # NOTES
-#     Author          : Josh Madakor
+#     Author          : Josh Thuet
 #     Date Created    : 2025-02-09
 #     Last Modified   : 2025-02-09
 #     Version         : 1.0
